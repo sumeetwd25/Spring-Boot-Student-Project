@@ -6,14 +6,13 @@ Make sure you configure your application.properties with the appropriate databas
 You can test the CRUD operations using tools like Postman.
 
 ### Configuration:
-#### Build tool:
-Maven
-#### IDE:
-Eclipse
 #### Dependencies:
 1. Spring Web
 2. Spring Data JPA
 3. MySQL Driver
 4. Spring Boot Dev Tools
-
+#### Build tool:
+Maven
+#### IDE:
+Eclipse
 
