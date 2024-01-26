@@ -1,5 +1,5 @@
 # Spring-Boot-Student-Project
-A simple Java Spring Boot application to perform CRUD operations.
+A simple Java Spring Boot application that performs CRUD operations.
 
 ### How to run the application:
 Make sure you configure your application.properties with the appropriate database connection settings.
