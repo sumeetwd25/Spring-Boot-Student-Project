@@ -2,7 +2,7 @@
 A simple Java Spring Boot application that performs CRUD operations.
 
 ### How to run the application:
-Make sure you configure your application.properties with the appropriate database connection settings.
+Make sure you configure your 'application.properties' with the appropriate database connection settings.
 You can test the CRUD operations using tools like Postman.
 
 ### Configuration:
